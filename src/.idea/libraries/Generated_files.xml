@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-strict-mode/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-shorthand-properties/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/lib/lib/memoise-decorators-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bin/www-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/lib/loose-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-function-name/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-typeof-symbol/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-object-super/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-modules-commonjs/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/app-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-sticky-regex/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-helper-hoist-variables/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/lib/destructuring-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/lib/default-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-helper-replace-supers/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/lib/rest-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dist/app-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-strict-mode/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-shorthand-properties/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/lib/lib/memoise-decorators-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bin/www-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/lib/loose-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-function-name/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-typeof-symbol/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-object-super/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-modules-commonjs/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-sticky-regex/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-helper-hoist-variables/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/lib/destructuring-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/lib/default-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-helper-replace-supers/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/lib/rest-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/app-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
